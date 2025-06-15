@@ -11,7 +11,6 @@ Bem-vindo ao meu GitHub! Sou Gabriel Henrique Fernandes de Jesus, um desenvolved
 - 🔧 Experiência com diagnóstico e manutenção técnica
 - 🌐 Estudando desenvolvimento full stack (HTML, CSS, JS, Python, React)
 - 🤖 Apaixonado por IA, automações e engenharia de prompts
-- 📲 Criador do projeto **“Me Chama!”**, um app de serviços rápidos
 - 🎥 Criador de conteúdo no canal **“Amanhã Eu Faço”** sobre estilo de vida e produtividade
 
 ---
@@ -21,7 +20,6 @@ Bem-vindo ao meu GitHub! Sou Gabriel Henrique Fernandes de Jesus, um desenvolved
 - **Frontend:** HTML5, CSS3, JavaScript (em aprendizado)
 - **Backend:** Python (com foco em automações, PyQt, APIs)
 - **Banco de Dados:** SQLite, Google Sheets (em automações)
-- **Ferramentas:** Git, VSCode, Do It Now (RPG de hábitos)
 - **Soft Skills:** Proatividade, autogerenciamento, criatividade e empatia
 
 ---
@@ -43,7 +41,6 @@ Bem-vindo ao meu GitHub! Sou Gabriel Henrique Fernandes de Jesus, um desenvolved
 
 - 🔭 Evoluir como desenvolvedor full stack
 - 🧠 Me tornar especialista em inteligência artificial
-- 💼 Empreender com o app “Me Chama!”
 - 📚 Produzir conteúdo sobre tecnologia, hábitos e mentalidade
 
 ---
