@@ -1,4 +1,55 @@
-# ✨ Gabriel Henrique - Portfólio & Projetos
+**✨ Gabriel Henrique - Portfolio & Projects**
+
+Welcome to my GitHub! I am Gabriel Henrique Fernandes de Jesus, a developer in training, passionate about technology, automation, and solutions that impact lives. Here you will find my projects, studies, and experiments in the areas of **full-stack development**, **Python automation**, **artificial intelligence**, **financial management**, and much more.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Mechatronics Technician by SENAI
+- 👨‍💻 Studying Systems Analysis and Development
+- 🔧 Experience with technical diagnosis and maintenance
+- 🌐 Learning full-stack development (HTML, CSS, JS, Python, React)
+- 🤖 Passionate about AI, automation, and prompt engineering
+- 🎥 Content creator on the channel **“Amanhã Eu Faço”** about lifestyle and productivity
+
+---
+
+## 💡 Skills and Technologies
+
+- **Frontend:** HTML5, CSS3, JavaScript (learning)
+- **Backend:** Python (focus on automation, PyQt, APIs)
+- **Database:** SQLite, Google Sheets (in automations)
+- **Soft Skills:** Proactivity, self-management, creativity, and empathy
+
+---
+
+## 📂 Highlighted Projects
+
+| Project               | Description                                                                 | Technologies         |
+|----------------------|---------------------------------------------------------------------------|---------------------|
+| Personal Portfolio    | Dark-themed website (black and blue) showcasing my projects               | HTML, CSS, JS       |
+| Snake Game            | Interactive snake game in the browser                                     | HTML, CSS, JS       |
+| Weather App           | Application that displays current weather by city                         | HTML, CSS, JS, API  |
+| Registration System   | PyQt5 system with login, registration, and data control features          | Python, PyQt        |
+| PIX Verifier          | Automations with CPF and PIX key verification                             | Python              |
+| Business Spreadsheet  | Financial system with forecasts and comparisons                           | Google Sheets       |
+
+---
+
+## 📈 Current Goals
+
+- 🔭 Evolve as a full-stack developer
+- 🧠 Become an expert in artificial intelligence
+- 📚 Produce content about technology, habits, and mindset
+
+---
+LINKEDIN:
+https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+---
+
+**✨ Gabriel Henrique - Portfólio & Projetos**
 
 Bem-vindo ao meu GitHub! Sou Gabriel Henrique Fernandes de Jesus, um desenvolvedor em formação, apaixonado por tecnologia, automações e soluções que impactam vidas. Aqui você vai encontrar meus projetos, estudos e experimentos nas áreas de **desenvolvimento full stack**, **automação em Python**, **inteligência artificial**, **gestão financeira** e muito mais.
 
@@ -44,5 +95,5 @@ Bem-vindo ao meu GitHub! Sou Gabriel Henrique Fernandes de Jesus, um desenvolved
 - 📚 Produzir conteúdo sobre tecnologia, hábitos e mentalidade
 
 ---
-LINKEDLN:
+LINKEDIN:
 https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
